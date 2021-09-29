@@ -1,0 +1,4 @@
+baseURL = 'http://zeng-qi.de/'
+languageCode = 'en-us'
+title = 'Zeng & Qi'
+theme = "ananke"
